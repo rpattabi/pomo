@@ -1,0 +1,8 @@
+[Desktop Entry]
+_Name=Pomo
+_Comment=Pomo application
+Categories=GNOME;Utility;
+Exec=pomo
+Icon=pomo
+Terminal=false
+Type=Application

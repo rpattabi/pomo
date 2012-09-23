@@ -1,0 +1,8 @@
+<glade-catalog name="pomo_window" domain="glade-3" 
+               depends="gtk+" version="1.0">
+  <glade-widget-classes>
+    <glade-widget-class title="Pomo Window" name="PomoWindow" 
+                        generic-name="PomoWindow" parent="GtkWindow"
+                        icon-name="widget-gtk-window"/>
+  </glade-widget-classes>
+</glade-catalog>
